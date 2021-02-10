@@ -1,4 +1,4 @@
-# gmsblogtests
+# GMS Blogs 
 BLOG SINGLE POST PAGE 1-> http://gmsblog1test.surge.sh/ 
 - single page for blog post
 - image
